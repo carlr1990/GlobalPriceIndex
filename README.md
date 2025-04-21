@@ -13,5 +13,5 @@ npm install
 npm run test
 
 ### Start Application
--npm run build
--npm start
+- npm run build
+- npm start
