@@ -18,8 +18,4 @@ export class App {
             console.log(`Server running on port ${port}`);
         });
     }
-
-/*    public getApp(): express.Application {
-        return this.app;
-    }*/
 }
