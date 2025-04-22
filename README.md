@@ -2,9 +2,8 @@
 
 ### Prerequisites
 
-- Node.js 18+
-- npm/yarn
-- TypeScript 4.9+
+- Node.js 
+- TypeScript
 
 ### Installation
 npm install
