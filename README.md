@@ -15,3 +15,6 @@ npm run test
 ### Start Application
 - npm run build
 - npm start
+
+### Application URL
+http://localhost:8008/api/price-index
